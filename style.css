@@ -1,5 +1,4 @@
 body {
-  width: 100%;
   line-height: 2rem;
   color: #191A19;
   background-color: #FFFFB5;
@@ -26,7 +25,6 @@ h1 {
 }
 
 .first-container {
-  width: 100%;
   background-color: #116530;
   padding-bottom: 50px;
 
